@@ -1,1 +1,1 @@
-Reository for Selenium/Python cource on Stepik.
+Repository for Selenium/Python cource on Stepik.
